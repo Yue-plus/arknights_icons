@@ -6,7 +6,12 @@
 
 ### 相关软件
 
-- 矢量绘图：[Inkscape](https://inkscape.org/zh-hans/)
+- 矢量绘图：
+  + [Adobe Illustrator](https://www.adobe.com/cn/products/illustrator.html)
+    | [CorelDRAW](https://www.coreldraw.com/cn/)
+    | [AutoCAD](https://www.autodesk.com.cn/products/autocad/overview)
+    （商业软件）
+  + [Inkscape](https://inkscape.org/zh-hans/)（开源软件）
 - 字体制作：
   + [FontLab Studio](https://www.fontlab.com/font-editor/fontlab/)（商业软件）
   + [FontCreator](https://www.high-logic.com/font-editor/fontcreator)（商业软件）
@@ -21,6 +26,7 @@
   + <https://developers.google.com/fonts>
   + <https://fonts.google.com/icons>
   + <https://github.com/google/material-design-icons>
+- [Apple Design Resources](https://developer.apple.com/design/resources/)
 - [FontAwesome](https://fontawesome.com/)
 - [Nerd Fonts](https://www.nerdfonts.com/)
 - [Ionicons](https://ionic.io/ionicons/v4)
