@@ -5,6 +5,11 @@
 | ![](./src/caster.svg) | ![](./src/medic.svg) | ![](./src/pioneer.svg) | ![](./src/sniper.svg) | ![](./src/special.svg) | ![](./src/support.svg) | ![](./src/tank.svg) | ![](./src/warrior.svg) |
 |-----------------------|----------------------|------------------------|-----------------------|------------------------|------------------------|---------------------|------------------------|
 
+## 关联项目
+
+- [Yue-plus/arknights_icons: Arknights Icons 开发中……](https://github.com/Yue-plus/arknights_icons)
+- [Yue-plus/endfield_icons](https://github.com/Yue-plus/endfield_icons)
+
 ## 参与项目
 
 ### 相关软件
