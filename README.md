@@ -5,6 +5,11 @@
 | ![](./src/caster.svg) | ![](./src/medic.svg) | ![](./src/pioneer.svg) | ![](./src/sniper.svg) | ![](./src/special.svg) | ![](./src/support.svg) | ![](./src/tank.svg) | ![](./src/warrior.svg) |
 |-----------------------|----------------------|------------------------|-----------------------|------------------------|------------------------|---------------------|------------------------|
 
+[`site-icons`](site-icons) 目录里的都是从 [官网](https://ak.hypergryph.com/) 提取的：
+
+| ![](./site-icons/title_arknights.svg) | ![](./site-icons/logo_rhodes_island.svg) | ![](./site-icons/copyright_mini.svg) | ![](./site-icons/icon_arrow.svg) |
+|---------------------------------------|------------------------------------------|--------------------------------------|----------------------------------|
+
 ## 关联项目
 
 - [Yue-plus/arknights_icons: Arknights Icons 开发中……](https://github.com/Yue-plus/arknights_icons)
