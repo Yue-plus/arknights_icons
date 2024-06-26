@@ -7,8 +7,20 @@
 
 [`site-icons`](site-icons) 目录里的都是从 [官网](https://ak.hypergryph.com/) 提取的：
 
-| ![](./site-icons/title_arknights.svg) | ![](./site-icons/logo_rhodes_island.svg) | ![](./site-icons/copyright_mini.svg) | ![](./site-icons/icon_arrow.svg) |
-|---------------------------------------|------------------------------------------|--------------------------------------|----------------------------------|
+| ![](./site-icons/title_arknights.svg) | ![](./site-icons/logo_rhodes_island.svg) | ![](./site-icons/icon_skland.svg) |
+|---------------------------------------|------------------------------------------|-----------------------------------|
+
+| ![](./site-icons/icon_arrow_hrz.svg) | ![](./site-icons/copyright_mini.svg) | ![](./site-icons/icon_arrow.svg) |
+|--------------------------------------|--------------------------------------|----------------------------------|
+
+| ![](./site-icons/icon_user.svg) | ![](./site-icons/icon_sound.svg) | ![](./site-icons/icon_play_btn.svg) | ![](./site-icons/icon_mini_play_btn.svg) | ![](./site-icons/icon_mini_link_btn.svg) | ![](./site-icons/icon_social.svg) |
+|---------------------------------|----------------------------------|-------------------------------------|------------------------------------------|------------------------------------------|-----------------------------------|
+
+| ![](./site-icons/icon_iOS.svg) | ![](./site-icons/icon_Android.svg) |
+|--------------------------------|------------------------------------|
+
+| ![](./site-icons/icon_TapTap.svg) | ![](./site-icons/icon_bilibili.svg) | ![](./site-icons/icon_wechat.svg) | ![](./site-icons/icon_weibo.svg) |
+|-----------------------------------|-------------------------------------|-----------------------------------|----------------------------------|
 
 ## 关联项目
 

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="42" viewBox="0 0 44 42">
+    <g id="svg_def-icon_mini_play_btn" fill-rule="evenodd" fill="currentColor">
+        <path d="M18.3 8.7V4.8l-13-.1h-.1v13.1h3.9l.1-9.1h9.1zM35.3 17.8h3.9l.1-13v-.1H26.2v3.9l9.2.1-.1 9.1zM18.3 32.8v3.9l-13 .1h-.1V23.7h3.9l.1 9.2 9.1-.1zM35.3 23.7h3.9l.1 13v.1H26.2v-3.9h9.2l-.1-9.2zM30.3 20.8l-14-8.1v16.2l14-8.1z"/>
+        <path d="M39 0l.1 4.9L44 5 43.9.1 39 0zM39.1 41.9l4.9.1-.1-4.9L39 37l.1 4.9zM0 0l.1 4.9L5 5 4.9.1 0 0zM.1 41.9L5 42l-.1-4.9L0 37l.1 4.9z"/>
+    </g>
+</svg>
